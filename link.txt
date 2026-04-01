@@ -1,0 +1,17 @@
+mongodb course
+https://www.youtube.com/watch?v=vfaRzV3P92o 		currently (1.24)
+https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1
+https://www.youtube.com/watch?v=rU9ZODw5yvU
+https://www.youtube.com/watch?v=oSIv-E60NiU
+https://www.youtube.com/watch?v=22oqSaTsn08
+https://www.youtube.com/playlist?list=PL2PkZdv6p7ZnPIMuAVv3QckkrpgECa6d3
+-------------
+https://www.jellyfishtechnologies.com/top-backend-technologies/
+-------
+npm i -g nodemon
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+--------------
+package.json
+npm init -y  (to create package.json)
+"type": "commonjs" then used 'required' when module is used 
+"type": "module" then used 'emport and export' when module is is used 

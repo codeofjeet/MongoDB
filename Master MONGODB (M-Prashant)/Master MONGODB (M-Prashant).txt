@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=tww-gbNPOcA
+-------------------------------
+how to install monodb
+goto monodb site(https://www.mongodb.com) and click Products than select community edition and download community
+to download monodb shall select tools and click monodb shall and download it
+now open cmd and type 
+mongosh 
+--------------------
+to create database
+use school (database name)
+to create data
+db.students.insertOne({rno: 1, name: "Deepak", age:20, mark: 87})
+-----------------
+to display all data
+db.students.find()
+-------------------
+https://www.geeksforgeeks.org/mongodb/mongodb-cheat-sheet/
